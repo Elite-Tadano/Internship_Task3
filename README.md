@@ -72,7 +72,7 @@ The goal of this task was to perform a basic vulnerability scan on my personal c
 ## Folder Structure
 ```
 ├── README.md
-└── Nessus_Report.pdf (optional export)
+└── New_Scan_June_26_3w4yaw.nessus (Nessus export)
 ```
 
 ---
